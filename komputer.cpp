@@ -128,16 +128,3 @@ void Komputer::wczytajDoPliku(){
 		obudowy[i].zapiszDoPliku();//kazda obudowa jest zapisywana do pliku 
 	}
 }
-// obiekt mial byc caly wczytywani i zapisywany (i poprawnie)
-//  nazwa pliku do zapisu powina byc zmienna w zaleznosci od obiektu
-// dokumentacja
-// sprawdzic ile mjest obudow np przy konstruktorze kopiujacym i wtedy wpisyuwac
-//testowac dziedziczenie w mainie
-/*
-przejrzystosc kodu 1/2
-dokumentacja 0/3
-implementacja 4/8 
-interfejs 2/2
-spoznienie -2
-suma 5
-*/
